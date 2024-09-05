@@ -19,10 +19,10 @@ jobs:
 
       - name: Install and build
         working-directory: ./Digital-Bond
-        run: npm install && npm run gh-build && cp docs/browser/index.html 
+        run: npm install && npm run gh-build && cp docs/index.html 
       
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: Digital-Bond/docs/browser/index.html # The folder the action should deploy.        
+          branch: main # The branch the action should deploy to.
+          folder: Digital-Bond/docs/index.html # The folder the action should deploy.        
