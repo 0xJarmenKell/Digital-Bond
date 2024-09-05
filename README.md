@@ -1,4 +1,4 @@
-# DigitalBond | Digital Markiting & Software House Agency 
+# DigitalBond | Digital Marketing & Software House Agency 
 
 # Live Preview of the project: [click me](https://digital-bond.netlify.app/)
 
