@@ -2,6 +2,8 @@
 
 # Live Preview of the project: [click me](https://digital-bond.netlify.app/)
 
+## Project Hierarchy: [Here](https://miro.com/app/board/uXjVKoQ7NLU=/?share_link_id=614503573146)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
